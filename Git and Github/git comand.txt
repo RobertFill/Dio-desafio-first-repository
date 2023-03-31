@@ -1,0 +1,38 @@
+Comandos:
+
+ls
+
+Para listas de direórios contidos na pasta.
+----------------------------------------------------------
+
+cd etc/
+
+Para navegar em pastas.
+
+cd../
+
+Para retroceder s pasta.
+----------------------------------------------------------
+clear
+
+Comando para limpar a tela.
+----------------------------------------------------------
+mkdir etc (Make Directory)
+
+Para criar uma pasta no diretório.
+----------------------------------------------------------
+rm -rf
+
+Para deletar pasta no diretório.
+----------------------------------------------------------
+git init
+
+Para iniciar repositorio.
+----------------------------------------------------------
+gi add
+
+Para mover arquivos e adicionar.
+----------------------------------------------------------
+git commit -m
+
+Para criar arquivo.
